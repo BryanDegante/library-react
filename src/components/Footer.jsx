@@ -1,20 +1,21 @@
 import React from "react"
 import Logo from '../assets/Library.svg'
+import { Link } from "react-router-dom";
 const Footer = () => {
   return (
     <footer>
       <div className="container">
         <div className="row row__column">
-          <a href="/">
+          <Link to="/">
             <figure className="footer__logo">
               <img src={Logo} alt="" className="footer__logo--img" />
             </figure>
-          </a>
+          </Link>
           <div className="footer__list">
-            <a href="/" className="footer__link">Home</a>
+            <Link to="/" className="footer__link">Home</Link>
             <span className="footer__link no-cursor">About</span>
-            <a href="/books" className="footer__link no-cursor">Books</a>
-            <a href="/cart" className="footer__link no-cursor">Cart</a>
+            <Link to="/books" className="footer__link no-cursor">Books</Link>
+            <Link to="/cart" className="footer__link no-cursor">Cart</Link>
           </div>
           <div className="footer__copyright">
             Copyright &copy; 2025 Library
