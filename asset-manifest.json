@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/BryanDegante/library-react/static/css/main.d0062265.css",
+    "main.js": "/BryanDegante/library-react/static/js/main.a4a18620.js",
+    "static/js/488.f554b9c7.chunk.js": "/BryanDegante/library-react/static/js/488.f554b9c7.chunk.js",
+    "static/media/Undraw_Books.svg": "/BryanDegante/library-react/static/media/Undraw_Books.64f45ed25262241aba12eff6dcb25d88.svg",
+    "static/media/Library.svg": "/BryanDegante/library-react/static/media/Library.70d0a6a90c21c295982ded03f9ea8615.svg",
+    "static/media/empty_cart.svg": "/BryanDegante/library-react/static/media/empty_cart.378125a834ec5473a1cffd7c59e06527.svg",
+    "index.html": "/BryanDegante/library-react/index.html",
+    "static/media/wave.svg": "/BryanDegante/library-react/static/media/wave.42edd5970e3619090a0f.svg",
+    "main.d0062265.css.map": "/BryanDegante/library-react/static/css/main.d0062265.css.map",
+    "main.a4a18620.js.map": "/BryanDegante/library-react/static/js/main.a4a18620.js.map",
+    "488.f554b9c7.chunk.js.map": "/BryanDegante/library-react/static/js/488.f554b9c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0062265.css",
+    "static/js/main.a4a18620.js"
+  ]
+}
