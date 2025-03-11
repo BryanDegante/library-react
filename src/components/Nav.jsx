@@ -18,7 +18,7 @@ const Nav = ({ numberOfItems }) => {
 				</Link>
 				<ul className="nav__links">
 					<li className="nav__list">
-						<Link to="/" className="nav__link">
+						<Link to="/library-react" className="nav__link">
 							Home
 						</Link>
 					</li>
