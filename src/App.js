@@ -49,7 +49,7 @@ function App() {
       <div className="App">
         <Nav numberOfItems={numberOfItems()} />
         <Routes>
-          <Route path="/" exact element={<Home />}></Route>
+          <Route path="/library-react/" exact element={<Home />}></Route>
           <Route path="/books" exact element={<Books books={books} />}></Route>
           <Route path="/books/:id" element={<BookInfo books={books} addToCart={addToCart} cart={cart} />}></Route>
           <Route path="/cart" element={<Cart books={books} cart={cart} changeQuantity={changeQuantity} removeItem={removeItem} />}></Route>
